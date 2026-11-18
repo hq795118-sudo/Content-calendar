@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+agents/content_calendar/output/
+__pycache__/
+.env
+credentials.json
+token.json
