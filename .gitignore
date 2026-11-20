@@ -228,3 +228,8 @@ __pycache__/
 .env
 credentials.json
 token.json
+
+agents/content_calendar/output/
+.env
+credentials.json
+token.json
